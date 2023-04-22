@@ -1,6 +1,6 @@
 # Advance Quadruped Robot Neo
 
-
+<img src="neo_media/standing_neo.jpeg" width="450">
 
 Neo is a 3D-printed quadruped robot with Full 6-axis body pose manipulation and custom 3DOF Leg Inverse Kinematics Model accounting for offset
 
@@ -14,6 +14,8 @@ Neo is a 3D-printed quadruped robot with Full 6-axis body pose manipulation and 
 - [ ] *Design* // Research transition between gait & body pose.
 - [x] *Simulation* // Gazebo
 - [ ] *Hardware* //adding more power servo for smooth motion
+
+<img src="neo_media/neo_test.gif" width="350"> <img src="neo_media/neo_walk.gif" width="350"> 
 
 ## 3D Model
 In the part_stl you can find all stl file to 3d print
