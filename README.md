@@ -15,7 +15,7 @@ Neo is a 3D-printed quadruped robot with Full 6-axis body pose manipulation and 
 - [x] *Simulation* // Gazebo
 - [ ] *Hardware* //adding more power servo for smooth motion
 
-<img src="neo_media/neo_walk.gif" width="280"> :)  <img src="neo_media/neo_test.gif" width="350">
+<img src="neo_media/neo_walk.gif" width="260"> :)  <img src="neo_media/neo_test.gif" width="350">
 
 ## 3D Model
 In the part_stl you can find all stl file to 3d print
