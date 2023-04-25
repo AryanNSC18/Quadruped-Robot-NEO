@@ -1,4 +1,4 @@
-# Advance Quadruped Robot Neo
+# Advance Quadruped Robot Neo (dw stl's and code on the way)
 
 <img src="neo_media/standing_neo.jpeg" width="450">
 
